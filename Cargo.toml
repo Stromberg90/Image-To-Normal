@@ -1,0 +1,10 @@
+[package]
+name = "normal_from_image"
+version = "0.1.0"
+authors = ["Strombergg"]
+
+[dependencies]
+image = "*"
+cgmath = "*"
+minifb = "*"
+nfd = "*"
